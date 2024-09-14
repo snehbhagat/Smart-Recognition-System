@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Smart-Recognition-System/static/css/main.021bd997.css",
+    "main.js": "/Smart-Recognition-System/static/js/main.59daca01.js",
+    "static/media/visitor1.jpg": "/Smart-Recognition-System/static/media/visitor1.4b58370f28cd80da591c.jpg",
+    "static/media/visitor4.png": "/Smart-Recognition-System/static/media/visitor4.2332e3a6efd7a39ff97c.png",
+    "static/media/visitor3.jpeg": "/Smart-Recognition-System/static/media/visitor3.2bc592f4c534be6d9a32.jpeg",
+    "static/media/WhatsApp Image 2024-02-27 at 22.55.20_a325555b.jpg": "/Smart-Recognition-System/static/media/WhatsApp Image 2024-02-27 at 22.55.20_a325555b.34fbe766b470b4dead20.jpg",
+    "static/media/Pi7_Tool_profile_pic.jpg": "/Smart-Recognition-System/static/media/Pi7_Tool_profile_pic.d63c0dd455e73f7a1e0e.jpg",
+    "static/media/tim_cook.jpg": "/Smart-Recognition-System/static/media/tim_cook.506556076b2f6e96b785.jpg",
+    "static/media/visitor.jpg": "/Smart-Recognition-System/static/media/visitor.38f9513524ca59c509b5.jpg",
+    "index.html": "/Smart-Recognition-System/index.html",
+    "main.021bd997.css.map": "/Smart-Recognition-System/static/css/main.021bd997.css.map",
+    "main.59daca01.js.map": "/Smart-Recognition-System/static/js/main.59daca01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021bd997.css",
+    "static/js/main.59daca01.js"
+  ]
+}
