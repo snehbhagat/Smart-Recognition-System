@@ -1,0 +1,11 @@
+{
+  "homepage": "https://snehbhagat.github.io/Smart-Recognition-System",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "scripts":{
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build" 
+}
+}
+
